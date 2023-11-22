@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JoungWon's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=79&descAlign=49)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JoungWon's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=87&descAlign=49)
 
 <br>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
     
-![Jungwon's github stats](https://github-readme-stats.vercel.app/api?username=Joungwom&show_icons=true)
+![Jungwon's github stats](https://github-readme-stats.vercel.app/api?username=Joungwon&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skqltldnjf)](https://solved.ac/skqltldnjf/)
     
 </div>
