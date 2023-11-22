@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JoungWon's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=55&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JoungWon's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=55)
 
 <br>
 
@@ -20,9 +20,6 @@
 
 </p>
 
-<br>
-<img width="100%" src="https://github.com/Joungwon/Joungwon/assets/122511462/7905662e-27c0-472a-b6c4-745d7158107b"/>
-<br>
 <p align="center">
     <Strong>⚒️Main Stack⚒️</Strong><br>
 </p>
