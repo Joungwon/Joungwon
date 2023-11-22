@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8adbdc&height=110&section=header)
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=43c5c7&text=JoungWon's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=87&descAlign=49)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=15b7b9&text=JoungWon's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=87&descAlign=49)
 <br>
  
 <p align="center">
