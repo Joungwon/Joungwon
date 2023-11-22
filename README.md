@@ -18,8 +18,7 @@
 </p>
 
 <br>
-![dino](https://github.com/Joungwon/Joungwon/assets/122511462/7905662e-27c0-472a-b6c4-745d7158107b)
-
+<img width="80%" src="https://github.com/Joungwon/Joungwon/assets/122511462/7905662e-27c0-472a-b6c4-745d7158107b"/>
 <br>
 <p align="center">
     <Strong>⚒️Main Stack⚒️</Strong><br>
