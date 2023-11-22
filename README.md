@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-    <Strong>⚒️Main Stack⚒️</Strong><br>
+    <Strong>⚒️Language⚒️</Strong><br>
 </p>
 
 <p align="center" display="inline-block">
@@ -30,6 +30,9 @@
     <img src="https://img.shields.io/badge/Python-1D9FD7?style=for-the-badge&logo=Python&logoColor=white"> 
     <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
+</p>
+<p align="center">
+    <Strong>⚒️Main Stack⚒️</Strong><br>
 </p>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
