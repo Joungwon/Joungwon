@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a1e2e3&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8adbdc&height=150&section=header&text=JoungWon's GitHub%20render&fontSize=60)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=JoungWon's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=87&descAlign=49)
 
 <br>
