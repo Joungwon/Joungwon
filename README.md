@@ -8,7 +8,7 @@
     라는 믿음을 가진 개발자 석정원입니다! <br><br>
     기계공학을 전공 했으며, <br>
     하나를 배우더라도 깊이 있게 배우려는 자세로 프론트엔드 개발을 학습하고 있습니다.
-
+<br>
     Nice to meet you👐
     “Small changes add up to change the world”
     I am Seock Joung-won, a developer with the belief that it is!
