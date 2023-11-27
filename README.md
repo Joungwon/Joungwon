@@ -29,7 +29,7 @@
 
 
 
-<h2 align="center">💻 Tech stack 💻</h2>
+<h2>💻 Tech stack 💻</h2>
 
 <div >
   <div  > 💡 Used as the main</div>
