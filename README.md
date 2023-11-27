@@ -21,12 +21,9 @@
 
 <h2 align="center">💻 Tech stack 💻</h2>
 
-<p align="center">
+<p align="center" display="inline-block">
   <div align="center" > 💡 Used as the main</div>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
   <br />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
@@ -115,6 +112,8 @@
     <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
 </p>
+
+
 
 <hr>
 <br>
