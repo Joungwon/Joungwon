@@ -4,13 +4,12 @@
 <img width="100%" src="https://github.com/Joungwon/Joungwon/assets/122511462/7905662e-27c0-472a-b6c4-745d7158107b"/>
  
 
-
+<p align="center">\
 ##### Nice to meet you👐
 ##### “Small changes add up to change the world”
 ##### I am Seock Joung-won, a developer with the belief that it is!
 
 ###### I'm majoring in mechanical engineering and learning Frontend.
-<p align="center">
 <br>
 
 </p>
