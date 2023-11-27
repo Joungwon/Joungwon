@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8adbdc&height=110&section=header&text=JoungWon's%20GIT%20&fontSize=60)
-
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=8adbdc&height=190&section=header&text=JoungWon's%20GitHub&desc=Welcome!&fontSize=60&descAlignY=97&descAlign=49&fontColor=626263)
 <br>
 <br>
 <br>
@@ -23,7 +21,7 @@
          **[Kustims 27th]** Education Planning Team & Android Developer 
 
 ### You can contact me
-📧 **Email :**  mnseoshin@gmail.com
+📧 **Email :**  digital123@gmail.com
 
 <br>
 <br>
@@ -33,8 +31,8 @@
 
 <h2 align="center">💻 Tech stack 💻</h2>
 
-<div align="center">
-  <div align="center" > 💡 Used as the main</div>
+<div >
+  <div  > 💡 Used as the main</div>
 
   <br />
   <p display="inline-block">
@@ -52,7 +50,7 @@
   </p>
   <br />
   <br />
-  <div align="center" > 💡 Used at least once</div>
+  <div  > 💡 Used at least once</div>
   <p display="inline-block">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
@@ -70,7 +68,7 @@
   </p>
   <br />
   <br />
-  <div align="center" > ✍ Studying... </div>
+  <div > ✍ Studying... </div>
   <p display="inline-block">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
