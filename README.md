@@ -11,9 +11,10 @@
 <h4 align="center">I'm majoring in mechanical engineering and learning Frontend.
 
 <br>
+<br>
+<br>
 
 
-<hr>
 
 <p align="center">
     <Strong>⚒️Main Stack⚒️</Strong><br>
