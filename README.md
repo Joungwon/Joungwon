@@ -5,9 +5,9 @@
  
 
 
-###### Nice to meet you👐
-###### “Small changes add up to change the world”
-###### I am Seock Joung-won, a developer with the belief that it is!
+##### Nice to meet you👐
+##### “Small changes add up to change the world”
+##### I am Seock Joung-won, a developer with the belief that it is!
 
 ###### I'm majoring in mechanical engineering and learning Frontend.
 <p align="center">
