@@ -1,21 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8adbdc&height=110&section=header)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=15b7b9&text=JoungWon's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=87&descAlign=49)
 <br>
-<img width="100%" src="https://github.com/Joungwon/Joungwon/assets/122511462/7905662e-27c0-472a-b6c4-745d7158107b"/>
- 
 
-<h4>Nice to meet you👐
-<h4>“Small changes add up to change the world”
-<h4>I am Seock Joung-won, a developer with the belief that it is!
-<br>
-<h4>I'm majoring in mechanical engineering and learning Frontend.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
@@ -25,11 +12,11 @@
   <div align="center" > 💡 Used as the main</div>
 
   <br />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recoil-0075EB?style=flat&logo=Recoil&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jotai-000000?style=flat&logo=Jotai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-0075EB?style=for-the-badge&&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&&logo=Jotai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&&logo=Vite&logoColor=white"/>
   <br />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
@@ -90,6 +77,7 @@
     <Strong>⚒️Main Stack⚒️</Strong><br>
 </p>
 <p align="center" display="inline-block">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
