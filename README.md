@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8adbdc&height=110&section=header&text=JoungWon's%20GitHub%20&fontSize=60&fontColor=15b7b9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8adbdc&height=110&section=header&text=JoungWon's%20GIT%20&fontSize=60)
 
 <br>
 <br>
@@ -7,7 +7,7 @@
 <br>
 
 
-## 👨🏻‍💻 Minseo Shin 👋🏻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseoShindor&count_bg=%23FFD19F&title_bg=%23C44646&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=true)](https://hits.seeyoufarm.com)
+## 👨🏻‍💻 Joung Won 👋🏻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseoShindor&count_bg=%23FFD19F&title_bg=%23C44646&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=true)](https://hits.seeyoufarm.com)
  
 ### Frontend & Software Developer
 
@@ -25,6 +25,9 @@
 ### You can contact me
 📧 **Email :**  mnseoshin@gmail.com
 
+<br>
+<br>
+<br>
 
 
 
