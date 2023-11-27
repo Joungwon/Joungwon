@@ -38,24 +38,25 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-0075EB?style=for-the-badge&&logo=Recoil&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&&logo=Jotai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&&logo=Vite&logoColor=white"/>
   </p>
   <br />
   <p display="inline-block">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Matter.js-4B5562?style=for-the-badge&logo=Matter.js&logoColor=white">
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
   </p>
   <br />
   <br />
   <div align="center"> 💡 Used at least once</div>
   <p display="inline-block">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=white"/>
   </p>
   <br />
   <p display="inline-block">
