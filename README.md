@@ -4,11 +4,11 @@
 <img width="100%" src="https://github.com/Joungwon/Joungwon/assets/122511462/7905662e-27c0-472a-b6c4-745d7158107b"/>
  
 
-<h4 align="center">Nice to meet you👐
-<h4 align="center">“Small changes add up to change the world”
-<h4 align="center">I am Seock Joung-won, a developer with the belief that it is!
+<h4>Nice to meet you👐
+<h4>“Small changes add up to change the world”
+<h4>I am Seock Joung-won, a developer with the belief that it is!
 <br>
-<h4 align="center">I'm majoring in mechanical engineering and learning Frontend.
+<h4>I'm majoring in mechanical engineering and learning Frontend.
 
 <br>
 <br>
