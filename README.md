@@ -10,18 +10,17 @@
 ### Frontend & Software Developer
 
 ### I worked at 
-💼 **Schaeffler Korea IT & Digitalization (Seoul, Korea)**
- <br>as a Software Engineer Intern for 6 months.
+💼 **Samsung Software Academy (Seoul, Korea)**
+ <br>as a software engineer for 12 months.
+ <br>
 
 ### My Experiences (In 2023)
- **[Depromeet 14th]** Android Developer<br>
-         **[Samsung OpenSource Companions 4th]** Blog Channel Team<br>
-         **[Nexters 23rd]** Chief Operating Officier(COO)<br>
-         **[Nexters 22nd]** Android Developer<br>
-         **[Kustims 27th]** Education Planning Team & Android Developer 
+ **[Ajou University]** Vehicle, DeepLearing Development<br>
+         **[SSAFY 9th]** Software Develope<br>
+         **[SSAFY 9th]** Penetration Project Award - MovieZone<br>
 
 ### You can contact me
-📧 **Email :**  digital123@gmail.com
+📧 **Email :**  15gpfk@gmail.com
 
 <br>
 <br>
