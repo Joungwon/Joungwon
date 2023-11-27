@@ -8,15 +8,17 @@
 
 <h2 align="center">💻 Tech stack 💻</h2>
 
-<p align="center" display="inline-block">
+<div align="center">
   <div align="center" > 💡 Used as the main</div>
 
   <br />
+  <p display="inline-block">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-0075EB?style=for-the-badge&&logo=Recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge&&logo=Jotai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&&logo=Vite&logoColor=white"/>
+  </p>
   <br />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
