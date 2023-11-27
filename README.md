@@ -21,7 +21,7 @@
 
 <h2 align="center">💻 Tech stack 💻</h2>
 
-<div align="center">
+<p align="center">
   <div align="center" > 💡 Used as the main</div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -56,7 +56,7 @@
   <div align="center" > ✍ Studying... </div>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
-</div>
+</p>
 
 <h2 align="center"> 🔌 Etc 🔌 </h2>
 
