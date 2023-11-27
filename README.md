@@ -20,6 +20,21 @@
 
 </p>
 <hr>
+
+<p align="center">
+    <Strong>⚒️Main Stack⚒️</Strong><br>
+</p>
+<p align="center" display="inline-block">
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+ <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+ <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+ <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+ <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Matter.js-4B5562?style=for-the-badge&logo=Matter.js&logoColor=white">
+</p>
+<hr>
 <p align="center">
     <Strong>⚒️Language⚒️</Strong><br>
 </p>
@@ -30,16 +45,6 @@
     <img src="https://img.shields.io/badge/Python-1D9FD7?style=for-the-badge&logo=Python&logoColor=white"> 
     <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
-</p>
-<hr>
-<p align="center">
-    <Strong>⚒️Main Stack⚒️</Strong><br>
-</p>
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-    <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Matter.js-4B5562?style=for-the-badge&logo=Matter.js&logoColor=white">
 </p>
 
 <br>
