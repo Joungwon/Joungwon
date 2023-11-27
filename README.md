@@ -3,7 +3,7 @@
 <br>
 <img width="100%" src="https://github.com/Joungwon/Joungwon/assets/122511462/7905662e-27c0-472a-b6c4-745d7158107b"/>
  
-<p align="center">
+<p style="font-size:16px;" align="center">
     반갑습니다👐 <br>
     “작은 변화들이 모여 세상을 바꾼다” <br>
     라는 믿음을 가진 개발자 석정원입니다! <br><br>
