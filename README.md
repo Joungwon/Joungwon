@@ -3,6 +3,24 @@
 <br>
 
 
+## 👨🏻‍💻 Minseo Shin 👋🏻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseoShindor&count_bg=%23FFD19F&title_bg=%23C44646&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=true)](https://hits.seeyoufarm.com)
+ 
+### Frontend & Software Developer
+
+### I worked at 
+💼 **Schaeffler Korea IT & Digitalization (Seoul, Korea)**
+ <br>as a Software Engineer Intern for 6 months.
+
+### My Experiences (In 2023)
+ **[Depromeet 14th]** Android Developer<br>
+         **[Samsung OpenSource Companions 4th]** Blog Channel Team<br>
+         **[Nexters 23rd]** Chief Operating Officier(COO)<br>
+         **[Nexters 22nd]** Android Developer<br>
+         **[Kustims 27th]** Education Planning Team & Android Developer 
+
+### You can contact me
+📧 **Email :**  mnseoshin@gmail.com
+
 
 
 
