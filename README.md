@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8adbdc&height=110&section=header)
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=15b7b9&text=JoungWon's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=87&descAlign=49)
 <br>
+<img width="100%" src="https://github.com/Joungwon/Joungwon/assets/122511462/7905662e-27c0-472a-b6c4-745d7158107b"/>
  
 <p align="center">
     반갑습니다👐 <br>
@@ -9,7 +10,6 @@
     기계공학을 전공 했으며, <br>
     하나를 배우더라도 깊이 있게 배우려는 자세로 프론트엔드 개발을 학습하고 있습니다. <br>
 <br>
-<img width="100%" src="https://github.com/Joungwon/Joungwon/assets/122511462/7905662e-27c0-472a-b6c4-745d7158107b"/>
 <br>
     
     Nice to meet you👐
