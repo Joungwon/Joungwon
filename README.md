@@ -58,7 +58,6 @@
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
   </p>
   <br />
-  <br />
   <div align="center"> 💡 Used at least once</div>
     <br />
   <p display="inline-block">
@@ -68,7 +67,6 @@
     <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   </p>
-  <br />
   <br />
   <div align="center"> ✍ Studying... </div>
   <p display="inline-block">
@@ -102,8 +100,9 @@
   ✔ Samsung Software 9th Academy (2023.01.2 ~ 2023.12.30) <br />
 
 </div>
+ <br />
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
-
+ 
 <h2> 🦝 Me 🦝 </h2>
 
 </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
