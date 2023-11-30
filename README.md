@@ -130,7 +130,13 @@
 
 <div align="center">
     
-![Jungwon's github stats](https://github-readme-stats.vercel.app/api?username=Joungwon&show_icons=true)
+![Jungwon's github stats](https://github-readme-stats.vercel.app/api?username=Joungwon&show_icons=true&theme=dracula)
+ <a><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Joungwon&show_icons=true&theme=dracula"/></a>
+   <a><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnseo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skqltldnjf)](https://solved.ac/skqltldnjf/)
     
 </div>
+<div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=336af8&fontAlignY=50&fontSize=70&height=250&animation=fadeIn&desc=&descAlignY=70" width="100%">
+</div>
+
