@@ -8,6 +8,7 @@
 ## 👨🏻‍💻 Joung Won 👋🏻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseoShindor&count_bg=%23FFD19F&title_bg=%23C44646&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
+
 ### Frontend & Software Developer
 
 ### I worked at 
