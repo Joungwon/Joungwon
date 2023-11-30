@@ -4,12 +4,12 @@
 <br>
 <br>
 <br>
-<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
 ## 👨🏻‍💻 Joung Won 👋🏻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseoShindor&count_bg=%23FFD19F&title_bg=%23C44646&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </dd></dl></dd></dl></dd></dl></dd></dl>
-</dd></dl></dd></dl>
+</dd></dl></dd></dl></dd></dl>
 
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
   </p>
   <br />
-  <div align="center"> 💡 Used at least once</div>
+  <div align="center"> 💡 Used at language</div>
     <br />
   <p display="inline-block">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
