@@ -9,7 +9,7 @@
 
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
-<dl><dd><dl><dd><dl><dd><dl><dd>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
 ### Frontend & Software Developer
 
@@ -29,11 +29,12 @@
 <br>
 <br>
 <br>
-</dd></dl></dd></dl></dd></dl></dd></dl>
-
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+<dl><dd><dl><dd><dl><dd><dl><dd>
 
 <h2>💻 Tech stack 💻</h2>
 
+</dd></dl></dd></dl></dd></dl></dd></dl>
 <div align="center">
   <div  align="center"> 💡 Used as the main</div>
 
