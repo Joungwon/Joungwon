@@ -22,8 +22,10 @@
 
 ### My Experiences (In 2023)
  **[Ajou University]** Vehicle, DeepLearing Development<br>
-         **[SSAFY 9th]** Software Develope<br>
-         **[SSAFY 9th]** Penetration Project Award - MovieZone<br>
+ **[Ajou University]** Semiconductor data analysis<br>
+ **[KOREATECH University]** Semiconductor process training<br>
+ **[SSAFY 9th]** Software Develope<br>
+ **[SSAFY 9th]** Penetration Project Award - MovieZone<br>
 
 ### You can contact me
 📧 **Email :**  15gpfk@gmail.com
@@ -75,7 +77,6 @@
   </p>
 </div>
 <br />
-  <br />
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
 <h2> 🔌 Etc 🔌 </h2>
@@ -94,9 +95,12 @@
 
 </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 <div align="center">
-  ✔ woowahan tech course 6th free course (2023.10.19 ~ 2023.11.15) <br />
-  ✔ 2023 Soongsil Start-up Internship - Luv.D (2023.06.22 ~ 2023.08.02) <br />
-  ✔ KUSITMS 27th (2023.02 ~ 2023.05) <br />
+  ✔ Ajou University Mechanical Engineering 15th (2015.03 ~ 2022.2) <br />
+  ✔ Semiconductor process training (2021.10 ~ 2021.12) <br />
+  ✔ Semiconductor data analysis (2022.01 ~ 2022.02) <br />
+  ✔ Autonomous driving deep learning (2022.03 ~ 2022.06) <br />
+  ✔ Samsung Software 9th Academy (2023.01.2 ~ 2023.12.30) <br />
+
 </div>
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
