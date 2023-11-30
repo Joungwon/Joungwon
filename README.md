@@ -4,11 +4,11 @@
 <br>
 <br>
 <br>
-<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
 ## 👨🏻‍💻 Joung Won 👋🏻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseoShindor&count_bg=%23FFD19F&title_bg=%23C44646&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=true)](https://hits.seeyoufarm.com)
 
-</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+</dd></dl></dd></dl></dd></dl></dd></dl>
 </dd></dl></dd></dl>
 
 <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
@@ -33,13 +33,13 @@
 <br>
 <br>
 <br>
-</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
-<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
 <h2>💻 Tech stack 💻</h2>
 
 </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
-</dd></dl></dd></dl>
+</dd></dl>
 <div align="center">
   <div  align="center"> 💡 Used as the main</div>
 
@@ -75,11 +75,11 @@
   </p>
 </div>
 <br />
-<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
 <h2> 🔌 Etc 🔌 </h2>
 
-</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
@@ -87,11 +87,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </p>
 
-<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
 <h2> ✨ Activity ✨ </h2>
 
-</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 <div align="center">
   ✔ Ajou University Mechanical Engineering 15th (2015.03 ~ 2022.2) <br />
   ✔ Semiconductor process training (2021.10 ~ 2021.12) <br />
@@ -101,11 +101,11 @@
 
 </div>
  <br />
-<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
  
 <h2> 🦝 Me 🦝 </h2>
 
-</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 <div align="center">
   <a href="https://velog.io/">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@leehyewon0531"/>
