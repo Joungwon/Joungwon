@@ -82,7 +82,11 @@
   </p>
 </div>
 
-<h2 align="center"> 🔌 Etc 🔌 </h2>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+
+<h2> 🔌 Etc 🔌 </h2>
+
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
@@ -90,8 +94,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </p>
 
-<h2 align="center"> ✨ Activity ✨ </h2>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
+<h2> ✨ Activity ✨ </h2>
+
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 <div align="center">
   ✔ woowahan tech course 6th free course (2023.10.19 ~ 2023.11.15) <br />
   ✔ 2023 Soongsil Start-up Internship - Luv.D (2023.06.22 ~ 2023.08.02) <br />
