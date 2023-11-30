@@ -131,16 +131,12 @@
 
 <div align="center">
  <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joungwon&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joungwon&theme=tokyonight&show_icons=true" width="42%" height="150px" />
 </a>
-    <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joungwon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joungwon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" height="150px" />
 </a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skqltldnjf)](https://solved.ac/skqltldnjf/)
     
 </div>
-<div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=336af8&fontAlignY=50&fontSize=70&height=250&animation=fadeIn&desc=&descAlignY=70" width="100%">
-</div>
-
