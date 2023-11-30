@@ -137,6 +137,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joungwon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"  />
 </a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skqltldnjf)](https://solved.ac/skqltldnjf/)
     
 </div>
