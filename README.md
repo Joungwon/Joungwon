@@ -10,7 +10,7 @@
 </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 </dd></dl></dd></dl></dd></dl>
 
-<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
 
 ### Frontend & Software Developer
 
@@ -30,9 +30,8 @@
 <br>
 <br>
 <br>
-</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
-</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
-<dl><dd><dl><dd><dl><dd><dl><dd>
+</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+
 
 <h2>💻 Tech stack 💻</h2>
 
